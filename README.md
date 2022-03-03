@@ -2,7 +2,7 @@
 Nginx Install
 <br>
 <pre>
-bash <(wget -qO- https://raw.githubusercontent.com/tempnana/Nginx/main/install.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/tempnana/Nginx-Rtmp/main/install.sh)
 </pre>
 <br>
 <code>/etc/nginx/nginx.conf</code>
